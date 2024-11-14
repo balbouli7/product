@@ -1,0 +1,26 @@
+
+img{
+    width: 300px; 
+}
+.product{
+    border: solid black;
+     margin: 10px; 
+    text-align: center; 
+    display: inline-block;
+    background-color: rgba(188, 188, 188, 0.318);
+}
+h1{text-align: center;
+    color: darkblue;
+}
+.product_name{
+    color: darkred;
+}
+.product_price{
+    color: blue;
+}
+.product_button{
+    background-color: brown;
+    color: white;
+}
+
+
